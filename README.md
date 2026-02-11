@@ -10,7 +10,7 @@ Objectives:
 Project Structure:
 <img width="2141" height="916" alt="Project Roadmap" src="https://github.com/user-attachments/assets/6df445b8-5bfc-417b-b0bb-af61fef96d26" />
 
-#Findings:
+Findings:
 1.Customer Report
 =============================================================================
 Purpose:
