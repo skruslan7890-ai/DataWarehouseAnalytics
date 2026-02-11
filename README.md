@@ -54,11 +54,14 @@ Conclusion
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
 How to Use
+
 Clone the Repository: Clone this project repository from GitHub.
 Set Up the Database: Run the SQL scripts provided in the DataWarehouseAnalytics\Scripts\00_init_database to create and populate the database.
 Run the Queries: Use the SQL queries provided in the DataWarehouseAnalyticsfile to perform your analysis.
 Explore and Modify: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
+
 Author -
+
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 Thank you for your support, and I look forward to connecting with you!
